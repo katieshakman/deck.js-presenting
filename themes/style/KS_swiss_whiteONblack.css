@@ -165,7 +165,7 @@ button {
 }
 
 select, input, textarea {
-  color: #fff;
+  color: #c00;
 }
 
 a {
@@ -175,7 +175,7 @@ a:hover, a:focus {
   color: #036;
 }
 a:link {
-  -webkit-tap-highlight-color: #fff;
+  -webkit-tap-highlight-color: #ccc;
 }
 
 /* End HTML5 Boilerplate adaptations */
@@ -263,7 +263,7 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
   padding: 1em;
-  border: 1px solid #fff;
+  border: 1px solid #ccc;
 }
 
 em {
